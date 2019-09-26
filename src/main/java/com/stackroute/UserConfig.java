@@ -1,9 +1,9 @@
 package com.stackroute;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.stereotype.Component;
+import org.springframework.context.annotation.Configuration;
 
-@Component
+@Configuration
 public class UserConfig {
     @Bean
     public User user()
