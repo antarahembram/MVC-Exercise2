@@ -7,7 +7,7 @@
    <p>Enter password:
    <input type="password" name="password"></input>
    </p>
-   <input type="submit" value="Submit">Click here to submit</button>
+   <input type="submit" value="Click here to Submit"></button>
 </form>
 
 </body>
