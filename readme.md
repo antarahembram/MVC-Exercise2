@@ -1,13 +1,13 @@
 # Spring MVC Exercise2
 
-###Form
+### Form
 UserName and Password are to be given by user in a form.
 
 ### Display
 Welcome userName to stackroute!
 
 
-##There are 2 classes
+## There are 2 classes
 
 ### User 
 It contains userName and password
